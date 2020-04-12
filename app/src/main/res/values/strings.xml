@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecyleView</string>
+
+    <string-array name="LocalBrand">
+        <item>Brodo</item>
+        <item>Compass</item>
+        <item>Exodos57</item>
+        <item>Forever Young Crew</item>
+        <item>Geoffmax</item>
+        <item>Nah Project</item>
+        <item>Patrobas</item>
+        <item>Ventela</item>
+        <item>Warrior</item>
+        <item>Word Division</item>
+    </string-array>
+    <string-array name="Deskripsi">
+        <item>Made In Indonesia</item>
+        <item>Made In Indonesia</item>
+        <item>Made In Indonesia</item>
+        <item>Made In Indonesia</item>
+        <item>Made In Indonesia</item>
+        <item>Made In Indonesia</item>
+        <item>Made In Indonesia</item>
+        <item>Made In Indonesia</item>
+        <item>Made In Indonesia</item>
+        <item>Made In Indonesia</item>
+
+    </string-array>
+</resources>
